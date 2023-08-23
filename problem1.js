@@ -21,6 +21,3 @@ console.log(mission);
 // 3-------
 const add = (a, b = 0) => a + b;
 console.log(add(2));
-
-
-
