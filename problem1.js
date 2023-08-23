@@ -7,15 +7,20 @@
 
 */
 
+// 1-----
 const multiply = (a, b, c) => a * b * c;
 
 console.log(multiply(1, 2, 3));
 
+// 2-----------
 const mission = `I am web developer.
 I love to code.
 I love to eat biryani`
 console.log(mission);
 
+// 3-------
 const add = (a, b = 0) => a + b;
 console.log(add(2));
+
+
 
